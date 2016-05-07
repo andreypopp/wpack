@@ -31,7 +31,7 @@ You can put wpack configuration in `package.json` file under `"wpack"` key.
 
 ### Primer
 
-```
+```js
 {
   context: __dirname,
 
